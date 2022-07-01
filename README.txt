@@ -13,7 +13,7 @@
 		 cd ПУТЬ ПРОЕКТА
 		 composer update
 	В проекте в config/db.php имя базы данных указано как 'candidate', а пользователь 'postgres'. Поменяйте при необходимости.
-	Если используете OpenServer и в доменах укажите Домен:candidate, Папка домена:\candidate\web.
+	Если используете OpenServer в доменах укажите Домен:candidate, Папка домена:\candidate\web.
 
 Adminlte3:
 	Было использовано расширение adminlte3, которая занимает 120МБ. 
