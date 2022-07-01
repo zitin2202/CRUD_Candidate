@@ -1,0 +1,53 @@
+.summary,
+.view-button{
+    display: inline-block;
+    float: right;
+}
+
+.btn-grid-panel{
+    font-size: 1.4em;
+}
+.fa-refresh
+{
+    font-size: 1.3em;
+}
+.btn-refresh{
+    font-size: 1em;
+}
+
+.candidates-form{
+    padding-left: 13%;
+}
+
+.view-number{
+    font-size: 20px;
+}
+
+.view-button a
+{
+    color: white;
+    margin-inline: 10px;
+
+}
+
+.view-button,
+.gridview-title
+{
+
+    font-size: 20px;
+}
+
+.gridview-icon{
+    padding-right: 10px;
+}
+
+.title{
+    color: #717578;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+hr{
+    border-top: 1px solid rgba(49, 49, 49, 0.06);
+
+}
