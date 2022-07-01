@@ -21,3 +21,9 @@ Adminlte3:
 		Введите в composer cd ПУТЬ ПРОЕКТА
 		composer remove hail812/yii2-adminlte3". 
 	После в view/layoute нужно поменять имя main__.php на main.php или создать свой шаблон, подключив стили по аналогии main__.php.
+
+Адрес страниц:
+	Кандидаты: "ИМЯ_ПРОЕКТА"/candidates
+	Кандидаты: "ИМЯ_ПРОЕКТА"/districts
+
+Также на боковой панели AdminLTE есть переход на эти страницы
