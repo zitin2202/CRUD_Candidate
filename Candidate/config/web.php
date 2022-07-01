@@ -15,6 +15,7 @@ $config = [
     ],
     'components' => [
 
+
         'assetManager' => [
             'bundles' => [
                 'kamran377\yii2-sweetalert2\SweetAlertAsset' => [

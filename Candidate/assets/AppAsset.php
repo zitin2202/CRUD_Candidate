@@ -24,12 +24,14 @@ class AppAsset extends AssetBundle
         'css/site.css',
         'css/style.css',
         'assets/v4shims/css/v4-shims.min.css',
-        ];
+//        '//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css',
+
+    ];
 
     public $js = [
         'js/yii.confirm.overrides.js',
         'js/app.js',
-        '//cdn.jsdelivr.net/npm/sweetalert2@11'
+        '//cdn.jsdelivr.net/npm/sweetalert2@11',
 
     ];
     public $depends = [
